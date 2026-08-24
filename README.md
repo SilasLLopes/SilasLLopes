@@ -1,9 +1,3 @@
-Claro. Para o seu caso, eu faria um README que não pareça apenas uma lista de tecnologias, mas que conte **o que você constrói, como trabalha e em quais áreas tem experiência**.
-
-Como você trabalha bastante com **AI Agents, LangGraph, RAG/GraphRAG, backend, infraestrutura, Docker e bancos**, eu estruturaria o perfil com uma apresentação forte, stack organizada, áreas de atuação, projetos e uma seção visual de arquitetura/IA.
-
-# Hi there 👋, I'm Silas Lopes
-
 ### AI Engineer • AI Agents • LLM Engineering • Backend • Infrastructure
 
 I build **AI-powered systems, intelligent agents, automations and backend architectures**, with a strong focus on turning LLMs into reliable and useful software.
