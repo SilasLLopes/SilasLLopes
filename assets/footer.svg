@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="End of transmission">
+<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".6" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<clipPath id="fc"><rect width="1200" height="200" rx="22"/></clipPath></defs>
+<style>.w{animation:mv 3s linear infinite}@keyframes mv{to{transform:translateX(-80px)}}
+.c{animation:bk 1s steps(1) infinite}@keyframes bk{50%{opacity:0}}</style>
+<g clip-path="url(#fc)"><rect width="1200" height="200" fill="#070B14"/>
+<g transform="translate(0,150)"><g class="w"><path d="M0 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0 q20 -14 40 0 t40 0" fill="none" stroke="url(#fade)" stroke-width="2" opacity=".8"/></g></g>
+<text x="600" y="72" text-anchor="middle" font-size="13" fill="#4F6488" letter-spacing="4" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">— END OF TRANSMISSION —</text>
+<text x="600" y="108" text-anchor="middle" font-size="22" fill="#E6EEFB" font-weight="600" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">Got a hard problem? Open a channel.<tspan class="c" fill="#22D3EE"> ▍</tspan></text>
+</g><rect x=".75" y=".75" width="1198.5" height="198.5" rx="21.5" fill="none" stroke="#1D2C4A" stroke-width="1.5"/>
+</svg>
