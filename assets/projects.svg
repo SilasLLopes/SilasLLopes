@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 564" width="1200" height="564" role="img" aria-label="Projects: NPAX, BarberOS, Copiloto, WhatsApp commerce">
+<defs><linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".04"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<style>
+.scan{animation:sc 7s ease-in-out infinite}@keyframes sc{0%{transform:translateX(0)}60%,100%{transform:translateX(1000px)}}
+.ring{animation:rg 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}.r2{animation-delay:1.2s}
+@keyframes rg{0%{transform:scale(1);opacity:1}100%{transform:scale(5);opacity:0}}
+.grow{transform-box:fill-box;transform-origin:bottom;animation:gr 3s ease-in-out infinite}
+.g1{animation-delay:.15s}.g2{animation-delay:.3s}.g3{animation-delay:.45s}.g4{animation-delay:.6s}
+@keyframes gr{0%,100%{transform:scaleY(.35)}45%,70%{transform:scaleY(1)}}
+.sway{transform-origin:0 30px;animation:sw 3.6s ease-in-out infinite}@keyframes sw{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+.dot{animation:dt 1.2s ease-in-out infinite}.d1{animation-delay:.2s}.d2{animation-delay:.4s}
+@keyframes dt{0%,100%{opacity:.3;transform:translateY(0)}40%{opacity:1;transform:translateY(-4px)}}
+</style>
+<g transform="translate(0,0)">
+  <clipPath id="p0"><rect width="588" height="270" rx="18"/></clipPath>
+  <g clip-path="url(#p0)">
+    <rect width="588" height="270" fill="#0A1120"/>
+    <circle cx="518" cy="64" r="120" fill="#22D3EE" opacity=".06"/>
+    <rect class="scan" x="-200" width="160" height="270" fill="url(#shine)"/>
+    <rect x="30" y="28" width="90" height="22" rx="11" fill="#22D3EE" fill-opacity=".14"/>
+    <text x="75" y="43.5" font-size="11" fill="#22D3EE" text-anchor="middle" letter-spacing="1.8" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">FLAGSHIP</text>
+    <text x="30" y="92" font-size="32" font-weight="800" fill="#F1F6FF" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">NPAX <tspan font-size="17" font-weight="500" fill="#5F7497">NetProactive AX</tspan></text>
+    <text x="30" y="132" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">An AI co-pilot for ISP network operations.</text><text x="30" y="156" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">It reads the noise of the network and</text><text x="30" y="180" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">answers in plain language — then acts.</text>
+    <rect x="30" y="222" width="84" height="26" rx="13" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".45"/><text x="72" y="239.5" font-size="12.5" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">LangGraph</text><rect x="122.39999999999999" y="222" width="39" height="26" rx="13" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".45"/><text x="142" y="239.5" font-size="12.5" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">MCP</text><rect x="169.2" y="222" width="69" height="26" rx="13" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".45"/><text x="204" y="239.5" font-size="12.5" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">FastAPI</text><rect x="246.39999999999998" y="222" width="62" height="26" rx="13" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".45"/><text x="277" y="239.5" font-size="12.5" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Zabbix</text><rect x="316.0" y="222" width="62" height="26" rx="13" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".45"/><text x="347" y="239.5" font-size="12.5" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">TR-069</text>
+    <g transform="translate(518,64)"><circle r="34" fill="none" stroke="#22D3EE" stroke-opacity=".25"/><circle r="20" fill="none" stroke="#22D3EE" stroke-opacity=".25"/>
+<circle class="ring" r="8" fill="none" stroke="#22D3EE" stroke-width="2"/><circle class="ring r2" r="8" fill="none" stroke="#22D3EE" stroke-width="2"/><circle r="5" fill="#22D3EE"/></g>
+  </g>
+  <rect x=".75" y=".75" width="586.5" height="268.5" rx="17.5" fill="none" stroke="#1C2B48" stroke-width="1.5"/>
+  <rect x="30" y="0" width="60" height="2.5" fill="#22D3EE"/>
+</g><g transform="translate(612,0)">
+  <clipPath id="p1"><rect width="588" height="270" rx="18"/></clipPath>
+  <g clip-path="url(#p1)">
+    <rect width="588" height="270" fill="#0A1120"/>
+    <circle cx="518" cy="64" r="120" fill="#F5B83D" opacity=".06"/>
+    <rect class="scan" x="-200" width="160" height="270" fill="url(#shine)"/>
+    <rect x="30" y="28" width="57" height="22" rx="11" fill="#F5B83D" fill-opacity=".14"/>
+    <text x="59" y="43.5" font-size="11" fill="#F5B83D" text-anchor="middle" letter-spacing="1.8" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">SAAS</text>
+    <text x="30" y="92" font-size="32" font-weight="800" fill="#F1F6FF" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">BarberOS <tspan font-size="17" font-weight="500" fill="#5F7497">Barbershop SaaS</tspan></text>
+    <text x="30" y="132" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">One platform, three experiences:</text><text x="30" y="156" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">the client books, the barber works,</text><text x="30" y="180" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">the owner sees the whole business.</text>
+    <rect x="30" y="222" width="69" height="26" rx="13" fill="#F5B83D" fill-opacity=".1" stroke="#F5B83D" stroke-opacity=".45"/><text x="65" y="239.5" font-size="12.5" fill="#F5B83D" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Next.js</text><rect x="107.19999999999999" y="222" width="92" height="26" rx="13" fill="#F5B83D" fill-opacity=".1" stroke="#F5B83D" stroke-opacity=".45"/><text x="153" y="239.5" font-size="12.5" fill="#F5B83D" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">TypeScript</text><rect x="207.2" y="222" width="77" height="26" rx="13" fill="#F5B83D" fill-opacity=".1" stroke="#F5B83D" stroke-opacity=".45"/><text x="246" y="239.5" font-size="12.5" fill="#F5B83D" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Supabase</text>
+    <g transform="translate(488,90)"><rect class="grow g0" x="0" y="-12" width="9" height="12" rx="2" fill="#F5B83D" opacity="0.45"/><rect class="grow g1" x="14" y="-22" width="9" height="22" rx="2" fill="#F5B83D" opacity="0.5800000000000001"/><rect class="grow g2" x="28" y="-32" width="9" height="32" rx="2" fill="#F5B83D" opacity="0.71"/><rect class="grow g3" x="42" y="-42" width="9" height="42" rx="2" fill="#F5B83D" opacity="0.8400000000000001"/><rect class="grow g4" x="56" y="-52" width="9" height="52" rx="2" fill="#F5B83D" opacity="0.97"/></g>
+  </g>
+  <rect x=".75" y=".75" width="586.5" height="268.5" rx="17.5" fill="none" stroke="#1C2B48" stroke-width="1.5"/>
+  <rect x="30" y="0" width="60" height="2.5" fill="#F5B83D"/>
+</g><g transform="translate(0,294)">
+  <clipPath id="p2"><rect width="588" height="270" rx="18"/></clipPath>
+  <g clip-path="url(#p2)">
+    <rect width="588" height="270" fill="#0A1120"/>
+    <circle cx="518" cy="64" r="120" fill="#34D399" opacity=".06"/>
+    <rect class="scan" x="-200" width="160" height="270" fill="url(#shine)"/>
+    <rect x="30" y="28" width="207" height="22" rx="11" fill="#34D399" fill-opacity=".14"/>
+    <text x="133" y="43.5" font-size="11" fill="#34D399" text-anchor="middle" letter-spacing="1.8" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">MOBILE · OFFLINE-FIRST</text>
+    <text x="30" y="92" font-size="32" font-weight="800" fill="#F1F6FF" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">Copiloto <tspan font-size="17" font-weight="500" fill="#5F7497">Agricultura Familiar</tspan></text>
+    <text x="30" y="132" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">A field companion for Brazilian</text><text x="30" y="156" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">family farmers — built to keep working</text><text x="30" y="180" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">where the signal doesn't reach.</text>
+    <rect x="30" y="222" width="107" height="26" rx="13" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".45"/><text x="84" y="239.5" font-size="12.5" fill="#34D399" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">React Native</text><rect x="145.2" y="222" width="46" height="26" rx="13" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".45"/><text x="168" y="239.5" font-size="12.5" fill="#34D399" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Expo</text><rect x="199.6" y="222" width="107" height="26" rx="13" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".45"/><text x="253" y="239.5" font-size="12.5" fill="#34D399" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">WatermelonDB</text>
+    <g transform="translate(518,64)"><g class="sway"><path d="M0 30 C 0 10, 0 0, 0 -6" stroke="#34D399" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<path d="M0 4 C -26 0, -28 -24, -6 -32 C 2 -16, 4 -4, 0 4 Z" fill="#34D399" opacity=".85"/><path d="M0 12 C 22 10, 26 -10, 8 -18 C 2 -6, 0 4, 0 12 Z" fill="#34D399" opacity=".55"/></g>
+<path d="M-30 30 h60" stroke="#34D399" stroke-opacity=".35" stroke-width="2" stroke-linecap="round"/></g>
+  </g>
+  <rect x=".75" y=".75" width="586.5" height="268.5" rx="17.5" fill="none" stroke="#1C2B48" stroke-width="1.5"/>
+  <rect x="30" y="0" width="60" height="2.5" fill="#34D399"/>
+</g><g transform="translate(612,294)">
+  <clipPath id="p3"><rect width="588" height="270" rx="18"/></clipPath>
+  <g clip-path="url(#p3)">
+    <rect width="588" height="270" fill="#0A1120"/>
+    <circle cx="518" cy="64" r="120" fill="#B79CFF" opacity=".06"/>
+    <rect class="scan" x="-200" width="160" height="270" fill="url(#shine)"/>
+    <rect x="30" y="28" width="115" height="22" rx="11" fill="#B79CFF" fill-opacity=".14"/>
+    <text x="88" y="43.5" font-size="11" fill="#B79CFF" text-anchor="middle" letter-spacing="1.8" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">CLIENT WORK</text>
+    <text x="30" y="92" font-size="32" font-weight="800" fill="#F1F6FF" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">WhatsApp Bot <tspan font-size="17" font-weight="500" fill="#5F7497">Commerce</tspan></text>
+    <text x="30" y="132" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">Ordering and customer service that</text><text x="30" y="156" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">lives where the customer already is:</text><text x="30" y="180" font-size="16" fill="#A9B8D0" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif">inside a WhatsApp chat.</text>
+    <rect x="30" y="222" width="69" height="26" rx="13" fill="#B79CFF" fill-opacity=".1" stroke="#B79CFF" stroke-opacity=".45"/><text x="65" y="239.5" font-size="12.5" fill="#B79CFF" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">FastAPI</text><rect x="107.19999999999999" y="222" width="115" height="26" rx="13" fill="#B79CFF" fill-opacity=".1" stroke="#B79CFF" stroke-opacity=".45"/><text x="165" y="239.5" font-size="12.5" fill="#B79CFF" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Evolution API</text><rect x="230.0" y="222" width="62" height="26" rx="13" fill="#B79CFF" fill-opacity=".1" stroke="#B79CFF" stroke-opacity=".45"/><text x="261" y="239.5" font-size="12.5" fill="#B79CFF" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Python</text>
+    <g transform="translate(518,64)"><rect x="-36" y="-26" width="60" height="34" rx="10" fill="#B79CFF" opacity=".2"/><path d="M-26 8 l-6 12 l16 -12" fill="#B79CFF" opacity=".2"/>
+<circle class="dot d0" cx="-20" cy="-9" r="4" fill="#B79CFF"/><circle class="dot d1" cx="-6" cy="-9" r="4" fill="#B79CFF"/><circle class="dot d2" cx="8" cy="-9" r="4" fill="#B79CFF"/>
+<rect x="-4" y="12" width="44" height="22" rx="8" fill="#B79CFF" opacity=".7"/></g>
+  </g>
+  <rect x=".75" y=".75" width="586.5" height="268.5" rx="17.5" fill="none" stroke="#1C2B48" stroke-width="1.5"/>
+  <rect x="30" y="0" width="60" height="2.5" fill="#B79CFF"/>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient></defs>
+<style>.p{stroke-dasharray:120 1300;animation:f 4.5s cubic-bezier(.6,0,.4,1) infinite}@keyframes f{from{stroke-dashoffset:1420}to{stroke-dashoffset:0}}
+.n{animation:b 4.5s infinite}.n2{animation-delay:2.25s}@keyframes b{0%,100%{opacity:.35}50%{opacity:1}}</style>
+<line x1="40" y1="14" x2="1160" y2="14" stroke="#1B2A45" stroke-width="1.5"/>
+<line class="p" x1="40" y1="14" x2="1160" y2="14" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round"/>
+<circle class="n" cx="40" cy="14" r="4" fill="#22D3EE"/><circle class="n n2" cx="1160" cy="14" r="4" fill="#8B5CF6"/>
+</svg>
